@@ -3,6 +3,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	gap: 30px;
 }
 
 img {
@@ -15,4 +16,9 @@ button {
 	background-color: red;
 	color: white;
 	border-radius: 8px;
+}
+
+.hero > div {
+	text-align: center;
+	padding: 12px;
 }
